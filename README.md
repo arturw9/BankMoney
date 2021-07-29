@@ -1,2 +1,2 @@
 # BankMoney
-https://github.com/arturw9/ByteBank.git
+Projeto feito para praticar o uso de Widgets stateful e, stateless no Flutter
