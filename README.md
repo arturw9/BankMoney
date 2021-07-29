@@ -1,6 +1,6 @@
 # bytebank
 
-A new Flutter project.
+Projeto feito para praticar o uso dos Widgets stateful e stateless.
 
 ## Getting Started
 
